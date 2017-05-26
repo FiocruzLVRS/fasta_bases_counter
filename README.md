@@ -16,3 +16,6 @@ The output should be:
 Requirements:
 - Python3;
 - numpy library;
+
+--------
+Any suggestion and pull requests are very welcome! I intend adding more configuration parameters soon.
